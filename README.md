@@ -3,7 +3,7 @@
 This application is just a basic UI design of Login and Registration Page. App is created programmatically as well as using storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.5
